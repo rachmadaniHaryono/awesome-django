@@ -451,6 +451,7 @@ phone numbers.
 * [model-mommy](https://github.com/vandersonmota/model_mommy/) - Smart fixtures for better tests.
 * [pytest-django](https://pypi.python.org/pypi/pytest-django/) - Test runner using py.test
 * [splinter](https://github.com/cobrateam/splinter/) - Test framework for web applications.
+* [django-mock-queries](https://github.com/stphivos/django-mock-queries) - A library for mocking django queryset functions.
 
 ## Thumbnail
 
