@@ -547,6 +547,7 @@ phone numbers.
 * [metamon](http://tryolabs.github.io/metamon/) - Collection of Ansible playbooks to quickly start your Django Application
 * [micawber](https://github.com/coleifer/micawber/) - A small library for extracting rich content from urls.
 * [towel](https://github.com/matthiask/towel/) - a collection of tools which make your life easier if you are building a web application using Django.
+* [transcrypt](https://transcrypt.org/) - Enables Django developers to share code between client and server by compiling Python 3.6. to fast, compact JavaScript. Can use any JavaScript library natively.
 
 # Projects
 
