@@ -646,6 +646,7 @@ phone numbers.
 
 * [Django-manage.py-anywhere](https://github.com/timonweb/Django-manage.py-anywhere/) - Run manage.py commands from anywhere. Finds closest to current path manage.py file and runs commands against it.
 * [Logan](https://github.com/dcramer/logan) - A toolkit for running standalone Django applications. It provides you with tools to create a CLI runner, manage settings, and the ability to bootstrap the process.
+* [Django manage commands](https://github.com/vladimirnani/DjangoCommands) - A Sublime Text 3 plugin that allows you to run all `manage.py` commands from within the editor, open a terminal in your django project root, open templates included or extended with a single key and more.
 
 # Contributing
 
