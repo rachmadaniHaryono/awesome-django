@@ -576,6 +576,7 @@ phone numbers.
 * [Mezzanine](https://github.com/stephenmcd/mezzanine/) - A content management platform built using the Django framework.
 * [wagtail](https://github.com/wagtail/wagtail) - A Django content management system focused on flexibility and user experience.
 * [leonardo](https://github.com/django-leonardo/django-leonardo/) - A new Django content management system built on top of FeinCMS and OpenStack Horizon.
+* [opps](https://github.com/opps/opps) - An Open Source Content Management for the magazine websites and high-traffic, using the Django Framework.
 
 ## Document Management
 
