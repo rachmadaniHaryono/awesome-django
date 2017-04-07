@@ -2,7 +2,7 @@
 
 [![Build Status](https://travis-ci.org/rachmadaniHaryono/awesome-django.svg)](https://travis-ci.org/rachmadaniHaryono/awesome-django)
 
-This project is being migrated to GitLab: https://gitlab.com/rosarior/awesome-django. The GitHub repository will be removed once all tickets are closed.
+The original project is migrated to GitLab: https://gitlab.com/rosarior/awesome-django.
 
 A curated list of awesome Django apps, projects and resources.
 
