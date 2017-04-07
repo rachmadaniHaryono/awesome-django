@@ -114,7 +114,7 @@ Twitter feed: [twitter.com/AwesomeDjango](https://twitter.com/AwesomeDjango)
 * [django-htmlmin](https://github.com/cobrateam/django-htmlmin/) - HTML minifier for Python with full support for HTML 5 and Django.
 * [django-pipeline](https://github.com/jazzband/django-pipeline) - Asset packaging for Django.
 * [django-systemjs](https://github.com/sergei-maertens/django-systemjs) - Django SystemJS brings the Javascript of tomorrow to Django, today. (JSPM integration in Django)
-* [django-webpack-loader](https://github.com/owais/django-webpack-loader/) - Transparent webpack integration for django.
+* [django-webpack-loader](https://github.com/ezhome/django-webpack-loader) - Transparent webpack integration for django.
 * [python-webpack](https://github.com/markfinger/python-webpack) - Python bindings for webpack with django integration.
 
 ## Authentication
@@ -305,7 +305,7 @@ phone numbers.
 * [django-localflavor](https://github.com/django/django-localflavor/) - Country-specific Django helpers, formerly of contrib fame.
 * [django-model-utils](https://github.com/carljm/django-model-utils/) - Django model mixins and utilities.
 * [django-mptt](https://github.com/django-mptt/django-mptt/) - Utilities for implementing a modified pre-order traversal tree in django.
-* [django-treebeard](https://github.com/tabo/django-treebeard) -Alternative tree data structures for Django (provides 3 different methods for storing hierarchical data, including MPTT )
+* [django-treebeard](https://github.com/django-treebeard/django-treebeard) -Alternative tree data structures for Django (provides 3 different methods for storing hierarchical data, including MPTT )
 
 ## Multitenancy
 
@@ -319,7 +319,7 @@ phone numbers.
 
 * [dj-stripe](https://github.com/kavdev/dj-stripe/) - Django + Stripe Made Easy.
 * [django-merchant](https://github.com/agiliq/merchant/) - A Django app that provides helpers for multiple pluggable payment backends.
-* [django-oscar-adyen](https://github.com/oscaro/django-oscar-adyen/) - This package provides integration with the Adyen payment gateway. It is designed to work seamlessly with the e-commerce framework django-oscar but can be used without Oscar.
+* [django-oscar-adyen](https://github.com/django-oscar/django-oscar-adyen) - This package provides integration with the Adyen payment gateway. It is designed to work seamlessly with the e-commerce framework django-oscar but can be used without Oscar.
 * [django-oscar-paymentexpress](https://github.com/django-oscar/django-oscar-paymentexpress/) - This package provides integration with the payment gateway, PaymentExpress using their PX POST API. It is designed to work seamlessly with the e-commerce framework django-oscar but can be used without it.
 * [django-oscar-paypal](https://github.com/django-oscar/django-oscar-paypal/) - PayPal integration for django-oscar. Can be used without Oscar too.
 * [django-paypal](https://github.com/spookylukey/django-paypal) - A pluggable Django application for integrating PayPal Payments Standard or Payments Pro.
@@ -514,7 +514,7 @@ phone numbers.
 * [django-adminactions](https://github.com/saxix/django-adminactions/) - Collection of useful actions to use with django.contrib.admin.ModelAdmin and/or django.contrib.admin.AdminSite
 * [django-autoadmin](https://github.com/rosarior/django-autoadmin/) - Automatic admin users for Django projects.
 * [django-braces](https://github.com/brack3t/django-braces/) - Reusable, generic mixins for Django.
-* [django-calendarium](https://github.com/bitmazk/django-calendarium/) - A reusable app to manage and display a calendar in your templates.
+* [django-calendarium](https://github.com/bitlabstudio/django-calendarium) - A reusable app to manage and display a calendar in your templates.
 * [django-changuito](https://github.com/angvp/django-changuito/) - A cart app for your django site, an updated fork of django-cart
 * [django-cors-headers](https://github.com/ottoyiu/django-cors-headers) - Django app for handling the server headers required for Cross-Origin Resource Sharing (CORS).
 * [django-dfp](https://github.com/praekelt/django-dfp) - App that provides tags to fetch Google DFP ads.
@@ -555,7 +555,7 @@ phone numbers.
 * [django-fiber](https://github.com/ridethepony/django-fiber) - Django Fiber, a simple, user-friendly CMS for all your Django projects
 * [feincms](https://github.com/feincms/feincms/) - A Django-based CMS with a focus on extensibility and concise code.
 * [Mezzanine](https://github.com/stephenmcd/mezzanine/) - A content management platform built using the Django framework.
-* [wagtail](https://github.com/torchbox/wagtail/) - A Django content management system focused on flexibility and user experience.
+* [wagtail](https://github.com/wagtail/wagtail) - A Django content management system focused on flexibility and user experience.
 * [leonardo](https://github.com/django-leonardo/django-leonardo/) - A new Django content management system built on top of FeinCMS and OpenStack Horizon.
 
 ## Document Management
@@ -570,7 +570,7 @@ phone numbers.
 * [Saleor](http://getsaleor.com) - An e-commerce storefront for Python and Django.
 * [Satchless](http://satchless.com) - Satchless brings e-commerce and Python together.
 * [Satchmo](https://bitbucket.org/chris1610/satchmo/src/) - Satchmo is an eCommerce framework created in Django which allows you to develop unique and robust online stores.
-* [Django-Shop](http://www.django-shop.org) - A Django based shop system.
+* [Django-Shop](http://django-shop.readthedocs.io/en/latest/index.html) - A Django based shop system.
 
 ## Other
 
@@ -581,7 +581,7 @@ phone numbers.
 
 ## Project Management
 
-* [ITSY](https://github.com/orges/itsy/) - Issue Tracking System
+* [ITSY](https://github.com/yetkinozturk/ITSY) - Issue Tracking System
 * [taiga](https://github.com/taigaio/taiga-back) - Agile, Free and Open Source Project Management Tool
 
 # Resources
