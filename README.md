@@ -554,6 +554,7 @@ phone numbers.
 * [django-sql-explorer](https://github.com/groveco/django-sql-explorer/) - Easily share data via SQL queries, right from Django
 * [django-stored-messages](https://github.com/evonove/django-stored-messages/) - Store Django messages on your project's backend.
 * [django-system-maintenance](https://github.com/mfcovington/django-system-maintenance/) - Django app to document and track the administration and maintenance of computer systems.
+* [django-tinycontent](https://github.com/dominicrodger/django-tinycontent) - Django app to manage re-usable blocks of tiny content.
 * [django-ratelimit](https://github.com/jsocol/django-ratelimit/) - provides a decorator to rate-limit views. Limiting can be based on IP address or a field in the request--either a GET or POST variable.
 * [django-uuslug](https://github.com/un33k/django-uuslug/) - a slugify application that guarantees Uniqueness and handles Unicode.
 * [django-watchman](https://github.com/mwarkentin/django-watchman/) - django-watchman exposes a status endpoint for your backing services like databases, caches, etc.
