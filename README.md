@@ -44,6 +44,7 @@ Twitter feed: [twitter.com/AwesomeDjango](https://twitter.com/AwesomeDjango)
     - [Project Management](#project-management)
     - [Reporting](#reporting)
     - [RESTful API](#restful-api)
+    - [Scaffolding](#scaffolding)
     - [SEO](#seo)
     - [Search](#search)
     - [Security](#security)
@@ -353,6 +354,13 @@ phone numbers.
 * [django-tastypie](http://tastypieapi.org/) - Creating delicious APIs for Django apps since 2010.
 * [restless](https://github.com/toastdriven/restless/) - A lightweight REST miniframework for Python
 * [djangorestframework-recursive](https://github.com/heywbj/django-rest-framework-recursive/) - Recursive Serialization for Django REST framework
+
+## Scaffolding
+
+*Packages that provide CRUD capabilities to projects without admin, perfect to client use.*
+
+* [django-crudbuilder](https://github.com/asifpy/django-crudbuilder) - Generic CRUD implementation in Django
+* [django-generic-scaffold](https://github.com/spapas/django-generic-scaffold/) - Quick generation of CRUD generic views for django!
 
 ## Search
 
