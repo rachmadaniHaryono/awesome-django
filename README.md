@@ -598,6 +598,7 @@ phone numbers.
 * [django-salted](https://github.com/wunki/django-salted/) - Full stack SaltStack configuration for Django with the help of Vagrant.
 * [Drum](https://github.com/stephenmcd/drum) - Reddit / Hacker News clone for Django/Mezzanine.
 * [koalixcrm](https://github.com/tfroehlich82/koalixcrm) - Beautiful CRM/ERP for small business.
+* [Misago](https://github.com/rafalp/misago) - Fully featured forum application written in Python and ES6, powered by Django and React.js
 * [ShareMusic](https://github.com/pando85/sharemusic) - Stream your own music collection to all your devices.
 
 ## Project Management
