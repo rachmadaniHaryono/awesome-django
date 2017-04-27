@@ -1,6 +1,9 @@
 # <a href="http://awesome-django.com"><img src="https://raw.githubusercontent.com/rosarior/awesome-django/gh-pages/images/logo-small.png" align="absmiddle"/> Awesome Django</a>
 
-[![Build Status](https://travis-ci.org/rachmadaniHaryono/awesome-django.svg)](https://travis-ci.org/rachmadaniHaryono/awesome-django)
+
+travis|django|django girls
+---|---|---
+|[![Build Status](https://travis-ci.org/rachmadaniHaryono/awesome-django.svg)](https://travis-ci.org/rachmadaniHaryono/awesome-django)| [![Gitter:django](https://badges.gitter.im/django/django.svg)](https://gitter.im/django/django?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)| [![Gitter:DjangoGirls](https://badges.gitter.im/DjangoGirls/tutorial.svg)](https://gitter.im/DjangoGirls/tutorial?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
 The original project is migrated to GitLab: https://gitlab.com/rosarior/awesome-django.
 
@@ -633,6 +636,8 @@ phone numbers.
 * [Django Packages](https://djangopackages.org/) - Django Packages is a directory of reusable apps, sites, tools, and more for your Django projects.
 * [Django Sites](https://www.djangosites.org) - Django Sites is a showcase of websites powered by Django.
 * [Full Stack Python's Django page](https://www.fullstackpython.com/django.html) - contains explanations for Django's philosophy and its components along with links to other resources and tutorials.
+* Gitter - Gitter chat room on [django](https://gitter.im/django/django?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge) and [django girls](https://gitter.im/DjangoGirls/tutorial?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
+* Reddit - [r/django](https://www.reddit.com/r/django/) and [r/djangolearning](https://www.reddit.com/r/django/) Subreddit.
 * [Simple is Better Than Complex](https://simpleisbetterthancomplex.com) - A blog about Django, Python and Web Development. Weekly updates containing tutorials, tips, featured packages, reference guides and code snippets.
 
 ## Conferences
