@@ -310,7 +310,7 @@ phone numbers.
 
 * [django-aggregate-if](https://github.com/henriquebastos/django-aggregate-if/) - Conditional aggregates for Django queries, just like the famous SumIf and CountIf in Excel.
 * [django-localflavor](https://github.com/django/django-localflavor/) - Country-specific Django helpers, formerly of contrib fame.
-* [django-model-utils](https://github.com/carljm/django-model-utils/) - Django model mixins and utilities.
+* [django-model-utils](https://github.com/jazzband/django-model-utils) - Django model mixins and utilities.
 * [django-mptt](https://github.com/django-mptt/django-mptt/) - Utilities for implementing a modified pre-order traversal tree in django.
 * [django-treebeard](https://github.com/django-treebeard/django-treebeard) -Alternative tree data structures for Django (provides 3 different methods for storing hierarchical data, including MPTT )
 
@@ -501,7 +501,7 @@ phone numbers.
 * [django-summernote](https://github.com/summernote/django-summernote/) - Summernote is a simple WYSIWYG editor. django-summernote allows you to embed Summernote into Django very handy. Support admin mixins and widgets.
 * [django-tinymce](https://github.com/aljosa/django-tinymce/) - TinyMCE integration for Django.
 * [django-wysiwyg](https://github.com/pydanny-archive/django-wysiwyg/) - A Django application for making Django textareas rich text editors. Certainly as a template tag and possibly as a form widget.
-* [django-wysiwyg-redactor](https://github.com/douglasmiranda/django-wysiwyg-redactor/) - A lightweight wysiwyg editor for Django.
+* [django-wysiwyg-redactor](https://pypi.python.org/pypi/django-wysiwyg-redactor) - A lightweight wysiwyg editor for Django.
 
 ## Wikis
 
@@ -597,7 +597,7 @@ phone numbers.
 
 ## Other
 
-* [Django packages](https://github.com/pydanny/djangopackages/) - Django Packages is a directory of reusable apps, sites, tools, and more for your Django projects.
+* [Django packages](https://github.com/djangopackages/djangopackages) - Django Packages is a directory of reusable apps, sites, tools, and more for your Django projects.
 * [django-salted](https://github.com/wunki/django-salted/) - Full stack SaltStack configuration for Django with the help of Vagrant.
 * [Drum](https://github.com/stephenmcd/drum) - Reddit / Hacker News clone for Django/Mezzanine.
 * [koalixcrm](https://github.com/tfroehlich82/koalixcrm) - Beautiful CRM/ERP for small business.
