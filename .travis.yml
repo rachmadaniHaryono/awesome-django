@@ -13,4 +13,4 @@ before_script:
   - npm install --global awesome-lint
 script:
   #- awesome-lint
-  - awesome_bot README.md --allow-dupe --white-list awesome-django,django-pagination,djangobeer,django-dynamic-preferences.,djangovillage
+  - awesome_bot README.md --allow-dupe --allow-redirect --white-list awesome-django,django-pagination,djangobeer,django-dynamic-preferences.,djangovillage
